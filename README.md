@@ -68,5 +68,5 @@ pls dni/c/Id/unless my friends or twin!! :P
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=79fc4c&center=true&vCenter=true&width=1200&lines=It+suits+you...+better+Jax.....+and+I+miss+talk+to+you." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=79fc4c&center=true&vCenter=true&width=1200&lines=It+suits+you+better+Jax..+and+I+miss+talk+to+you." />
 </p>
