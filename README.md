@@ -13,6 +13,11 @@ pls dni/c/Id/unless my friends or twin!! :P
 <table>
  <tr>
    <th>
+    
+    <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=79fc4c&center=true&vCenter=true&width=1200&lines=I+LOVE+RIBBIT+SO+MUCH." />
+   </p>
+
 <img width="736" height="736" alt="52e2ec1664b68f823b17a80a86d1fed2" src="https://github.com/user-attachments/assets/2d71da16-3082-402a-8fed-3bb71d41b8c3" />
 
 - - -
